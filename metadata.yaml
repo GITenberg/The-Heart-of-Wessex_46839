@@ -1,4 +1,5 @@
 _repo: The-Heart-of-Wessex_46839
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Haslehust, E. W.
@@ -10,6 +11,9 @@ contributor:
     deathdate: 1949
     gutenberg_agent_id: '26576'
     url: http://www.gutenberg.org/2009/agents/26576
+covers:
+- cover_type: archival
+  image_path: 46839-h/images/cover.jpg
 creator:
   author:
     agent_name: Heath, Sidney
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6215
     wikipedia: http://en.wikipedia.org/wiki/Sidney_Heath
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46839#The-Heart-of-Wessex
 gutenberg_issued: '2014-09-10'
 gutenberg_type: Text
 identifiers:
